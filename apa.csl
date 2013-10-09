@@ -25,10 +25,10 @@
     <contributor>
       <name>Sebastian Karcher</name>
     </contributor>
-    <category citation-format="author-date"/>
-    <category field="psychology"/>
-    <category field="generic-base"/>
-    <updated>2012-09-27T22:06:38+00:00</updated>
+    <category citation-format="numeric"/>
+     <category field="medicine"/>
+     <summary>The American Medical Association style as used in JAMA.</summary>
+    <updated>2012-09-30T23:10:36+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
